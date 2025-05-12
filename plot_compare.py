@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load both logs (LoRA and Full)
-lora_path = "training_log.csv"
+lora_path = "training_log_lora.csv"
 full_path = "training_log_full.csv"
 
 # Load into pandas
