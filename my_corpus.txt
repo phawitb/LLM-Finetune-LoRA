@@ -1,0 +1,41 @@
+The Solar System is a gravitationally bound system comprising the Sun and the celestial bodies that orbit it. These include eight major planets, their moons, five officially recognized dwarf planets, thousands of asteroids, millions of comets, and a vast array of dust and interstellar material. It stretches over billions of kilometers and is a dynamic, evolving system that formed approximately 4.6 billion years ago from a rotating cloud of gas and dust known as the solar nebula.
+
+At the heart of the Solar System lies the Sun — a G-type main-sequence star powered by nuclear fusion reactions in its core, converting hydrogen into helium and releasing enormous amounts of energy in the form of electromagnetic radiation. The Sun accounts for about 99.86% of the total mass of the Solar System and exerts gravitational control over all orbiting bodies.
+
+The planets of the Solar System are divided into two main categories: terrestrial and giant planets. The four terrestrial planets — Mercury, Venus, Earth, and Mars — are closer to the Sun and have solid, rocky surfaces. In contrast, the outer four — Jupiter, Saturn, Uranus, and Neptune — are massive gas or ice giants composed primarily of hydrogen, helium, water, ammonia, and methane.
+
+Mercury, the closest planet to the Sun, has no atmosphere to retain heat, causing temperatures to vary wildly between day and night. Venus, although similar in size to Earth, has a thick atmosphere composed of carbon dioxide and sulfuric acid clouds, resulting in a runaway greenhouse effect that makes it the hottest planet in the Solar System.
+
+Earth, the third planet from the Sun, is the only known celestial body to support life. It has a diverse climate, a protective magnetic field, liquid water, and a stable atmosphere. Its moon — the fifth-largest in the Solar System — significantly influences Earth’s tides and stabilizes its axial tilt.
+
+Mars, known as the Red Planet due to iron oxide on its surface, has a thin atmosphere mostly made of carbon dioxide. Mars has the tallest volcano in the Solar System — Olympus Mons — and deep canyons like Valles Marineris. It’s a key target for robotic and potentially human exploration due to evidence of past water activity.
+
+Between Mars and Jupiter lies the asteroid belt, a region filled with millions of rocky objects. These range in size from small pebbles to the dwarf planet Ceres. The belt represents leftover material from the early Solar System that never coalesced into a planet due to Jupiter’s gravitational influence.
+
+Jupiter is the largest planet in the Solar System, with a mass more than twice that of all the other planets combined. Its atmosphere is dominated by hydrogen and helium, with colorful bands and the Great Red Spot — a persistent high-pressure storm larger than Earth. Jupiter has at least 95 known moons, including Ganymede, the largest moon in the Solar System, which is even larger than Mercury.
+
+Saturn is best known for its stunning ring system, composed mostly of ice particles and rocky debris. It is a gas giant similar in composition to Jupiter and has over 140 confirmed moons. One of Saturn’s most intriguing moons is Titan, which has a dense atmosphere and lakes of liquid methane and ethane — making it a potential site for astrobiological research.
+
+Uranus and Neptune, the ice giants, lie much farther from the Sun. Uranus has an unusual rotational axis tilted over 90 degrees, making it appear to roll along its orbit. Its atmosphere contains methane, giving it a pale blue color. Neptune, the farthest known planet, is similar in composition but has a darker blue hue and the strongest winds recorded in the Solar System, reaching up to 2,100 km/h.
+
+Beyond Neptune lies the Kuiper Belt — a vast region of icy bodies and dwarf planets such as Pluto, Haumea, Makemake, and Eris. These objects are remnants from the formation of the Solar System. Pluto, once classified as the ninth planet, was reclassified as a dwarf planet in 2006 due to its size and inability to clear its orbit of other debris.
+
+Far beyond the Kuiper Belt is the hypothetical Oort Cloud, a spherical shell of icy objects that may extend up to 100,000 astronomical units (AU) from the Sun. It is believed to be the source of long-period comets that occasionally pass through the inner Solar System.
+
+Comets are icy bodies that release gas and dust when they approach the Sun, forming distinctive tails. Their highly elliptical orbits often bring them from the outer Solar System to within a few million kilometers of the Sun. Halley’s Comet, which returns roughly every 76 years, is one of the most famous.
+
+Meteoroids, meteors, and meteorites represent different stages of small rock fragments interacting with Earth. When a meteoroid enters Earth’s atmosphere and vaporizes, it becomes a meteor or "shooting star." If it survives and lands on Earth, it is called a meteorite.
+
+The formation of the Solar System is best explained by the nebular hypothesis. Around 4.6 billion years ago, a giant molecular cloud collapsed under its gravity, forming a protostar — the early Sun — surrounded by a protoplanetary disk. Through accretion, collisions, and gravitational interactions, dust particles formed planetesimals, which grew into protoplanets and eventually the planets we observe today.
+
+Planetary exploration has dramatically expanded our understanding of the Solar System. NASA’s Voyager 1 and 2 missions launched in 1977 and have now entered interstellar space, providing data on the heliosphere and the boundary of the Solar System. The Cassini mission orbited Saturn for over 13 years, while the Juno mission continues to study Jupiter’s magnetic field, atmosphere, and internal structure.
+
+The James Webb Space Telescope (JWST), launched in 2021, is not only probing deep space galaxies but also examining exoplanet atmospheres and distant objects in our own Solar System. It complements earlier efforts like the Hubble Space Telescope in expanding the frontier of astronomical knowledge.
+
+Efforts to understand planetary habitability focus on key factors such as liquid water, energy sources, and a stable environment. Moons like Europa (Jupiter) and Enceladus (Saturn), with subsurface oceans beneath icy crusts, are strong candidates for the search for extraterrestrial life.
+
+The Solar System is a dynamic place. Planets have elliptical orbits, axial tilts, and rotation periods that result in seasons, day-night cycles, and complex climate patterns. The Sun goes through an 11-year solar cycle of magnetic activity, producing solar flares and coronal mass ejections that affect space weather and can impact satellite operations and communication systems on Earth.
+
+In the future, the fate of the Solar System will be shaped by the life cycle of the Sun. In approximately 5 billion years, the Sun will exhaust its hydrogen fuel and expand into a red giant, engulfing Mercury and Venus. It will later shed its outer layers, leaving behind a white dwarf — a dense, Earth-sized remnant — surrounded by a planetary nebula.
+
+Understanding the Solar System is not only a scientific endeavor but also a foundation for space exploration, planetary defense, and potentially even human colonization beyond Earth. Missions to Mars, robotic exploration of Europa, and the search for Earth-like exoplanets around other stars are all part of a broader vision for humanity’s place in the cosmos.
